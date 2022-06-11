@@ -11,3 +11,10 @@ II. CRUD App perusahaan logistik - PastiSampai
 III. Problem yang akan diselesaikan adalah sebuah aplikasi yang memberikan kemudahkan proses monitoring aktivitas logistik dalam suatu perusahaan yang dilakukan oleh admin pergudangan.
 
 IV. Solusi yang dibuat adalah dengan membuat sebuah aplikasi CRUD (Create, Read, Update, and Delete) pergudangan untuk memonitor aktivitas logistik perusahaan tersebut. Aplikasi tersebut berguna untuk memasukan data pengiriman sebuah barang berdasarkan id pengiriman, tanggal pengiriman, jenis pengiriman, jenis barang, asal pengiriman, tujuan pengiriman dan status pengiriman. Selain itu, pada aplikasi tersebut admin juga dapat mencari status barang serta informasi lainnya yang diinginkan berdasarkan id pengiriman.
+
+V. Flowchart aplikasi - PastiSampai (terdapat dalam folder)
+
+VI. Panduan panggunaan aplikasi - PastiSampai
+   1. Login sebagai admin untuk masuk ke dalam aplikasi
+   2. Menampilkan data / user interface 
+   3. Admin dapat menggunakan menu "Add
